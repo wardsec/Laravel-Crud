@@ -12,7 +12,7 @@
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 ## Sobre o projeto
-   Para Migrar o banco de dados use: php artisan migrate
+   Para Migrar o banco de dados use: php artisan migrate <p>
    Para iniciar o servidor artisan use: php artisan serve
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
