@@ -4,6 +4,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## Sobre o projeto
+   Para Migrar o banco de dados use: php artisan migrate
+   Para iniciar o servidor artisan use: php artisan serve
+
 
 ## About Laravel
 
